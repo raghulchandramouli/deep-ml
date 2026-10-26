@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:51:42.120Z",
+  "generated_at": "2026-10-26T06:26:28.779Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -107,6 +107,17 @@
       "last_pushed_at": "2026-10-26T03:51:41.444Z",
       "language": "python",
       "lines": 10
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-26T06:26:28.102Z",
+      "last_pushed_at": "2026-10-26T06:26:28.102Z"
     }
   }
 }
