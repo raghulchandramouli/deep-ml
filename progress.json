@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:45:22.293Z",
+  "generated_at": "2026-10-27T08:52:13.376Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -144,6 +144,17 @@
       "last_pushed_at": "2026-10-26T09:45:21.601Z",
       "language": "python",
       "lines": 35
+    },
+    "math:58": {
+      "kind": "math",
+      "id": "58",
+      "title": "Policy Gradient Theorem and REINFORCE",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/58",
+      "path": "math/0058-policy-gradient-theorem-and-reinforce",
+      "first_solved_at": "2026-10-27T08:52:12.623Z",
+      "last_pushed_at": "2026-10-27T08:52:12.623Z"
     }
   }
 }
