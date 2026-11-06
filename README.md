@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 13 problems · 3 labs · 10 math
+**27** solved · 14 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-07-05 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-26 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-26 | [solution](problems/0313-numerical-gradient-checking) |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-05-07 | [solution](problems/0309-product-rule-for-derivatives) |
 
 ## Labs
 
