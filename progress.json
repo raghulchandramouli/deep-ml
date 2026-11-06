@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:18:26.720Z",
+  "generated_at": "2026-11-06T12:18:28.592Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -253,6 +253,32 @@
       "last_pushed_at": "2026-01-14T15:00:11.825Z",
       "language": "python",
       "lines": 24
+    },
+    "lab:13": {
+      "kind": "lab",
+      "id": "13",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/13",
+      "path": "labs/0013-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-02-28T13:21:25.093Z",
+      "last_pushed_at": "2026-02-28T13:21:25.093Z",
+      "language": "python",
+      "lines": 107
+    },
+    "lab:1": {
+      "kind": "lab",
+      "id": "1",
+      "title": "MNIST: Pytorch DataLoader",
+      "difficulty": "medium",
+      "category": "Data Pipelines",
+      "url": "https://www.deep-ml.com/labs/1",
+      "path": "labs/0001-mnist-pytorch-dataloader",
+      "first_solved_at": "2026-02-28T15:16:31.885Z",
+      "last_pushed_at": "2026-02-28T15:16:31.885Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
