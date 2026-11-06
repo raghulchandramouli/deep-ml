@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:18:37.962Z",
+  "generated_at": "2026-11-06T12:18:39.954Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -370,6 +370,45 @@
       "last_pushed_at": "2026-05-11T12:59:38.913Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-05-12T11:13:51.631Z",
+      "last_pushed_at": "2026-05-12T11:13:51.631Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-05-12T11:19:51.820Z",
+      "last_pushed_at": "2026-05-12T11:19:51.820Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-05-12T11:22:32.860Z",
+      "last_pushed_at": "2026-05-12T11:22:32.860Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
