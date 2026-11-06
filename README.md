@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 15 problems · 3 labs · 10 math
+**30** solved · 17 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,10 +21,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-26 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-24 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-04-28 | [solution](problems/0003-reshape-matrix) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-11 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-07-05 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-07-05 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-26 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-05-09 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-11 | [solution](problems/0009-matrix-times-matrix) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-26 | [solution](problems/0313-numerical-gradient-checking) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-05-07 | [solution](problems/0309-product-rule-for-derivatives) |
 
