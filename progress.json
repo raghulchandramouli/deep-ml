@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:18:41.948Z",
+  "generated_at": "2026-11-06T12:18:43.827Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -422,6 +422,45 @@
       "last_pushed_at": "2026-05-13T15:17:12.979Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-05-19T10:36:11.151Z",
+      "last_pushed_at": "2026-05-19T10:36:11.151Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-05-19T10:36:53.770Z",
+      "last_pushed_at": "2026-05-19T10:36:53.770Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-05-19T10:53:47.826Z",
+      "last_pushed_at": "2026-05-19T10:53:47.826Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
