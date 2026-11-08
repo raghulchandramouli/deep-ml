@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:35:59.309Z",
+  "generated_at": "2026-11-08T18:36:25.016Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -498,6 +498,19 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-11-08T18:27:27.403Z",
       "last_pushed_at": "2026-11-08T18:27:27.403Z"
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-08T18:36:24.170Z",
+      "last_pushed_at": "2026-11-08T18:36:24.170Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
