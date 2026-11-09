@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 30 problems · 3 labs · 11 math
+**45** solved · 31 problems · 3 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-05-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-07-05 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-26 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-06-25 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-05-20 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-05-09 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-11 | [solution](problems/0009-matrix-times-matrix) |
