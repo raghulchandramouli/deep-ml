@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:41:24.989Z",
+  "generated_at": "2026-11-09T18:31:19.631Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -524,6 +524,32 @@
       "last_pushed_at": "2026-11-08T18:41:24.122Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:377": {
+      "kind": "problem",
+      "id": "377",
+      "title": "Linear Learning Rate Decay",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/377",
+      "path": "problems/0377-linear-learning-rate-decay",
+      "first_solved_at": "2026-05-26T06:51:00.975Z",
+      "last_pushed_at": "2026-05-26T06:51:00.975Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-05-26T07:09:48.497Z",
+      "last_pushed_at": "2026-05-26T07:09:48.497Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
