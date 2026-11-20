@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 33 problems · 3 labs · 14 math
+**51** solved · 34 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-04-28 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-11 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-05-19 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-11-20 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-05-19 | [solution](problems/0024-single-neuron) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-07-05 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-05-13 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
