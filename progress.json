@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:27:15.975Z",
+  "generated_at": "2026-11-20T07:33:01.193Z",
   "items": {
     "problem:411": {
       "kind": "problem",
@@ -598,6 +598,19 @@
       "path": "math/0133-attention-as-a-soft-dictionary-lookup",
       "first_solved_at": "2026-11-20T07:27:15.027Z",
       "last_pushed_at": "2026-11-20T07:27:15.027Z"
+    },
+    "problem:1383": {
+      "kind": "problem",
+      "id": "1383",
+      "title": "Bahdanau Additive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1383",
+      "path": "problems/1383-bahdanau-additive-attention",
+      "first_solved_at": "2026-11-20T07:33:00.527Z",
+      "last_pushed_at": "2026-11-20T07:33:00.527Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
